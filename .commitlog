@@ -2,3 +2,4 @@
 2025-04-13 14:04:17 -0400 fix: correct currency formatting edge case
 2025-04-13 22:32:10 -0400 style: improve button hover states
 2025-04-13 22:56:23 -0400 fix: handle empty state in transaction list
+2025-04-25 22:38:48 -0400 refactor: simplify chart data transformation
