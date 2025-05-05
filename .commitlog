@@ -6,3 +6,4 @@
 2025-05-04 11:32:28 -0400 fix: resolve dark mode toggle flicker
 2025-05-04 22:14:12 -0400 style: adjust card spacing on mobile
 2025-05-04 10:58:05 -0400 fix: prevent duplicate sync requests
+2025-05-04 17:21:01 -0400 refactor: move constants to shared config
