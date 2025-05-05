@@ -5,3 +5,4 @@
 2025-04-25 22:38:48 -0400 refactor: simplify chart data transformation
 2025-05-04 11:32:28 -0400 fix: resolve dark mode toggle flicker
 2025-05-04 22:14:12 -0400 style: adjust card spacing on mobile
+2025-05-04 10:58:05 -0400 fix: prevent duplicate sync requests
