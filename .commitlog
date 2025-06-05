@@ -11,3 +11,4 @@
 2025-05-14 18:14:52 -0400 style: update color palette for accessibility
 2025-05-24 21:54:34 -0400 fix: handle offline state in backup flow
 2025-05-24 12:04:28 -0400 refactor: consolidate API error handling
+2025-06-04 22:03:08 -0400 fix: resolve stale data after category edit
