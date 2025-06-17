@@ -15,3 +15,4 @@
 2025-06-04 23:09:12 -0400 style: refine modal animation timing
 2025-06-12 21:53:59 -0400 fix: correct budget calculation rounding
 2025-06-12 21:25:33 -0400 refactor: extract reusable table component
+2025-06-16 21:34:59 -0400 fix: handle long category names in sidebar
