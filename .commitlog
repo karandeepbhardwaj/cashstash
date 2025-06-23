@@ -18,3 +18,4 @@
 2025-06-16 21:34:59 -0400 fix: handle long category names in sidebar
 2025-06-16 20:25:57 -0400 style: improve loading skeleton layout
 2025-06-20 21:14:44 -0400 fix: prevent double submit on slow network
+2025-06-23 19:59:17 -0400 refactor: simplify IndexedDB migration logic
